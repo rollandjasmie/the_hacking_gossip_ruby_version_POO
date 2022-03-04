@@ -1,2 +1,2 @@
-# the_hacking_gossip_ruby_version_POO
-projet
+# THP_S3J5
+Projet : The Gossip Project - The MVC version
